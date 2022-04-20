@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/jungkyuyang.github.io/React_movielist/static/js/main.fbf6a6bb.js",
-    "index.html": "/jungkyuyang.github.io/React_movielist/index.html",
-    "main.fbf6a6bb.js.map": "/jungkyuyang.github.io/React_movielist/static/js/main.fbf6a6bb.js.map"
+    "main.js": "/React_movielist/static/js/main.fbf6a6bb.js",
+    "index.html": "/React_movielist/index.html",
+    "main.fbf6a6bb.js.map": "/React_movielist/static/js/main.fbf6a6bb.js.map"
   },
   "entrypoints": [
     "static/js/main.fbf6a6bb.js"
